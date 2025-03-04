@@ -1,6 +1,7 @@
 # fan-front 1.5
 Página web de FAN FRONT
 
+	- 1.7 - añadido PopUp de Ofertón
 	- 1.6 - corregido error que salía un borrador de ONBOARDING en móviles
 	- 1.5 - añadido popup pesadoro
 	- 1.4 - corregido error donde no cargaba la página de instagram
