@@ -1,4 +1,4 @@
-# fan-front 1.3
+# fan-front 1.4
 Página web de FAN FRONT
 
 1.4 - corregido error donde no cargaba la página de instagram
