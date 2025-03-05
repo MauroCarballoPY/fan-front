@@ -1,6 +1,7 @@
-# fan-front 1.8
+# fan-front 1.9
 Página web de FAN FRONT
 
+	- 1.9 - Corregido formato que se descompuso al intentar ordenar los módulos del proceso, ahora sí funciona correctamente
 	- 1.8 - Modificado error que salia desordenado el proceso de How It Works en Móviles
 	- 1.7 - añadido PopUp de Ofertón
 	- 1.6 - corregido error que salía un borrador de ONBOARDING en móviles
